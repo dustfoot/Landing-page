@@ -1,0 +1,16 @@
+
+.top-container {
+	background-color: #30e3cb;
+	height: 600px;
+	background-size: 2000px 1100px;
+    text-color: black;
+}
+
+a {
+	text-decoration: #11999E;
+	padding: 5px 15px;
+	color: #ffff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.5rem;
+	background-color: chartreuse;
+	border-radius:20px;
