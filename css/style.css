@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: bisque;
 }
 .top-container {
 	background-color: #30e3cb;
@@ -8,13 +9,16 @@
     background-size: 2000px 1100px;
     text-align: center;
 }
-#section-bar{
-   float: right; 
+.section-bar{
+    text-align: center;
 }
 
-img{
+
+.img{
     width: 300px;
     height: 300px;
+    border-radius: 20px;
+
 }
 
 a {
