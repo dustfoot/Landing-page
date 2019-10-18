@@ -4,8 +4,9 @@
 }
 .top-container {
 	background-color: #30e3cb;
-	height: 400px;
-	background-size: 2000px 1100px;
+	height: 40px;
+    background-size: 2000px 1100px;
+    text-align: center;
 }
 
 a {
@@ -17,3 +18,8 @@ a {
 	background-color: chartreuse;
     border-radius:20px;
     } 
+
+    .bottom-container{
+        padding: 50px 0 20px;
+        background-color: #66bfbf;
+    }
