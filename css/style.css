@@ -11,6 +11,10 @@ body{
 }
 .section-bar{
     text-align: center;
+} 
+
+.section-bar ul li{
+    list-style: none;
 }
 
 
