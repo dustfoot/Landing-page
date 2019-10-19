@@ -12,10 +12,13 @@ body{
 .section-bar{
     text-align: center;
 } 
-
 .section-bar ul li{
     list-style: none;
 }
+.section-bar h1 {
+    color: aqua;
+}
+
 
 
 .img{
