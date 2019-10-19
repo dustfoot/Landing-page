@@ -1,7 +1,7 @@
 #My portofolio landing page
- - This is my portfolio landing page, version date- 20th/10/2019
+ *This is my portfolio landing page, version date- 20th/10/2019
 
- - auther: kaarshe
+ *auther: kaarshe
 
 ##Description
 - This is my portfolio showcasing what i can do and also a number of my projects i have been doing to up my skills.
@@ -14,3 +14,11 @@
 ##Technologies Used
 *Html
 *css
+
+##Support and contact details
+*github profile:
+*primary email address: dustfoot3668@gmail.com
+*link to live site:
+
+##License
+*MIT Copyright (c) 2019 kaarshe
