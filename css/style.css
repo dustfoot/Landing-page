@@ -40,6 +40,18 @@ hr{
     
 }
 
+/* styling the about me page */
+.columns {
+    columns: 250px 2;
+    column-rule: 1px dotted #ccc;
+    column-gap: 3em;
+  }
+  
+.about {
+    column-span: all;
+    text-align: center;
+  }
+
   a {
 	text-decoration: #11999E;
 	padding: 5px 15px;
