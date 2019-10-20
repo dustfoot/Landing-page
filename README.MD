@@ -1,6 +1,6 @@
 # My portofolio landing page
 
- *This is my portfolio landing page, version date- 20th/10/2019
+ * This is my portfolio landing page, version date- 20th/10/2019
 
  * auther: kaarshe
 
