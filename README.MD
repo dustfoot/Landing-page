@@ -9,7 +9,7 @@
 
 ## Setup/Installation Requirements
 * git clone https://github.com/dustfoot/Landing-page.git
-* cd portfolio https://github.com/dustfoot/Landing-page
+* cd portfolio 
 * visual code .
 
 ## Technologies Used
