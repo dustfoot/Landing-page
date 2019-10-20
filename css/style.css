@@ -64,9 +64,9 @@ form {
 
 
 .col-containerweb {
-    display: flex;
+   display: flex;  /* just trying out flex a bit */
     width: 100%;
-   border: 1px. solid black;
+   border: 1px; solid black;
 
 }
 .colweb{
