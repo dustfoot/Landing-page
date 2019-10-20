@@ -116,6 +116,22 @@ form {
 
 }
 
+.box{
+    width: 350px;
+    height: 30px;
+    font-size: 1rem;
+}
+.boxarea{
+    width: 350px;
+    height: 130px;
+    font-size: 1rem;
+  
+  }
+
+ /* styling the contacts page ends here*/
+
+
+
 
   a {
 	text-decoration: #11999E;
