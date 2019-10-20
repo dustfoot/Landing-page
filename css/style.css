@@ -130,8 +130,10 @@ form {
 
  /* styling the contacts page ends here*/
 
-
-
+ .project-header {
+     color: brown;
+     text-align: center;
+ }
 
   a {
 	text-decoration: #11999E;
