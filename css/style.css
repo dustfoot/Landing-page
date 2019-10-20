@@ -160,6 +160,11 @@ form {
         text-align: center;
     }
 
+    /* active links for the footer link */
+    .footer-link a:visited{
+        background-color: deeppink;
+    }
+
     .copyright {
         color: #ffff;
         text-align: center;
