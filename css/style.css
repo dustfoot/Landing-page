@@ -53,6 +53,15 @@ hr{
   }
 /* styling the about me page ends here*/
 
+/* styling the contacts page */
+
+form {
+    padding:20px;
+    font-family: Mallanna, sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+  }
+
 
   a {
 	text-decoration: #11999E;
