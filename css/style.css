@@ -71,7 +71,7 @@ form {
 }
 .colweb{
     width:25%;
-    flex: 1;
+    display flex: 1;
     background:#E6E5E5;
     padding-bottom:20px;
 }
